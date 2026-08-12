@@ -46,7 +46,7 @@
         compatible = "zmk,combos";
 
         tab {
-            bindings = <&kp LA(LG(TAB))>;
+            bindings = <&kp TAB>;
             key-positions = <38 39>;
         };
     };
