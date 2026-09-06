@@ -45,12 +45,12 @@
 
         local_prefix {
             bindings = <&kp LC(SPACE)>;
-            key-positions = <40 22>;
+            key-positions = <40 10>;
         };
 
         vm_prefix {
             bindings = <&kp LC(B)>;
-            key-positions = <39 22>;
+            key-positions = <39 10>;
         };
     };
 
